@@ -1,0 +1,46 @@
+:root {
+  --blue-500: hsl(215, 51%, 70%);
+  --cyan-400: hsl(178, 100%, 50%);
+
+  --blue-950: hsl(217, 54%, 11%);
+  --blue-900: hsl(216, 50%, 16%);
+  --blue-800: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    font-size: 1.8rem;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--blue-950);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crypto-card {
+    max-width: 360px;
+    background-color: var(--blue-900);
+    padding: 2.5rem;
+    color: var(--blue-500);
+    border-radius: 1.5rem;;
+}
+
+.crypto-card .image a img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
