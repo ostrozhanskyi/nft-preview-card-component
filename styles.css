@@ -98,6 +98,10 @@ h1 {
     margin-bottom: 1.5rem;
 }
 
+h1:hover {
+    color: var(--cyan-400);
+}
+
 .description p {
     font-size: 1.7rem;
     line-height: 1.5em;
@@ -143,4 +147,8 @@ svg {
 
 .author .name {
     color: white;
+}
+
+.author .name:hover {
+    color: var(--cyan-400);
 }
