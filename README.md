@@ -23,8 +23,8 @@ Screenshot was made by [Screenshot Capture](https://chromewebstore.google.com/de
 
 ### Links
 
-- Solution URL: [GitHub project page](https://github.com/ostrozhanskyi/recipe-page)
-- Live Site URL: [GitHub Pages Link](https://ostrozhanskyi.github.io/recipe-page/)
+- Solution URL: [GitHub project page](https://github.com/ostrozhanskyi/nft-preview-card-component)
+- Live Site URL: [GitHub Pages Link](https://ostrozhanskyi.github.io/nft-preview-card-component/)
 
 ## My process
 
@@ -35,7 +35,8 @@ Screenshot was made by [Screenshot Capture](https://chromewebstore.google.com/de
 
 ### What I learned
 
-
+I'm not really happy with the final version but it's good enough and I spend a lot of time on this challenge. Not really on it but it took me some time to do something.
+The most difficult part was an overlay cyan image(or foreground) with transparency and svg on top. And I needed to make it appear only on cursor hover.
 
 ### Useful resources
 
